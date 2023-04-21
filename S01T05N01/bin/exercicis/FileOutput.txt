@@ -1,0 +1,9 @@
+(F) DisplayFile.txt - Last modified: 2023-04-21T12:12:30.9417799Z
+(F) FileManager.java - Last modified: 2023-04-21T11:41:14.3281022Z
+(F) FileOutput.txt - Last modified: 2023-04-21T13:14:40.5276289Z
+(F) Main.java - Last modified: 2023-04-21T12:51:01.7412189Z
+(D) out - Last modified: 2023-04-21T12:31:45.9914988Z
+ (D) exercicis - Last modified: 2023-04-21T12:31:45.9914988Z
+  (F) FileManager.class - Last modified: 2023-04-21T12:31:45.9954888Z
+(F) Person.java - Last modified: 2023-04-21T11:41:14.3420659Z
+(F) person.ser - Last modified: 2023-04-21T13:11:35.9040031Z
